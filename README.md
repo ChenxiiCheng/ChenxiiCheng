@@ -1,6 +1,6 @@
 ### Hi there 🚀
 
-- ⭐️  I’m currently looking for a full time web developer position
+- ⭐️  **I’m currently looking for a full time web developer position**
 - 🍄  I’m currently using JavaScript, TypeScript, Python, HTML, CSS, Sass, SQL
 - ✌️ **Tech Stack:**
   - **Libraries | Framework:** React, Redux, Next.js, Express.js, Django Rest Framework, typeORM
