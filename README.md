@@ -7,5 +7,5 @@
   - **UI Libraries:** Ant Design UI, Element UI, Bootstrap, Semantic UI, Material UI
   - **Databases:** MongoDB, MySQL, PostgreSQL
   - **Cloud Platform:** AWS EC2, Vercel, Alibaba Cloud, Netlify
-- 🔥  My NEW website: www.chenxii.xyz
-- 📫  How to reach me: chenxic1011@gmail.com
+- 🔥  Website: www.chenxii.xyz
+- 📫  Email: chenxic1011@gmail.com
