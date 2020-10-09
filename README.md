@@ -1,6 +1,6 @@
 ### Hi there 🚀
 
-- ⭐️  **I’m currently looking for a full time Front End OR Full Stack position**
+- ⭐️  **I’m currently looking for a full time Front End or Full Stack position**
 - 🍄  I’m currently using JavaScript, TypeScript, Python, HTML, CSS, Sass, SQL, Git
 - ✌️ **Tech Stack:**
   - **Libraries | Framework:** React, React Native, Redux, Apollo(GraphQL client), Next.js, Express.js, Django, Django Rest Framework, Graphene(GraphQL)
