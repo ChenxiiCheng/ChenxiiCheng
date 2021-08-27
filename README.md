@@ -1,1 +1,1 @@
-JavaScript, TypeScript, Python, Node.js, Java
+JavaScript, TypeScript, Python, Node.js
