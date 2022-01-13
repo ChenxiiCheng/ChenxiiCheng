@@ -1,1 +1,1 @@
-JavaScript, TypeScript, Python, Node.js
+JavaScript, TypeScript, Python, Node.js, Perl
